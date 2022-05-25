@@ -1,0 +1,14 @@
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.deps.json
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.runtimeconfig.json
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.runtimeconfig.dev.json
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.dll
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\bin\Debug\netcoreapp2.1\EmployeeWebApp.pdb
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.csprojAssemblyReference.cache
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.RazorAssemblyInfo.cache
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.RazorAssemblyInfo.cs
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.AssemblyInfoInputs.cache
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.AssemblyInfo.cs
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.dll
+C:\Users\shaurya.sethi\source\repos\EmployeeWebApp\EmployeeWebApp\obj\Debug\netcoreapp2.1\EmployeeWebApp.pdb

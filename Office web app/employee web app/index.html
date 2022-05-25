@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <button type="button" class="btn btn-outline-primary" >Get record by Id</button><br>
+        <br>
+        <div class="a" id="getrec">
+            <input class="id" type="text" placeholder="Enter Id" id="id123">
+            <button onclick="get2()">Submit</button> <br><br>
+        </div>
+        <button type="button" class="btn btn-outline-secondary" onclick="get()">Get all records</button><br><br>
+        <button type="button" class="btn btn-outline-success" onclick="open2()">Insert record</button><br> <br>
+        <div class="a" id="insrec">
+        
+            <input class="id" type="text" placeholder="Employee Name" id="ename">
+            <input class="id" type="text" placeholder="Employee Gender" id="egender">
+            <input class="id" type="text" placeholder="Employee Age" id="eage">
+            <input class="id" type="text" placeholder="Employee Phone Number" id="ephn"> <button onclick="sendJSON()">Submit</button><br><br>
+        </div>
+        <button type="button" class="btn btn-outline-danger" onclick="open3()">Search</button><br> <br>
+        <div class="a" id="search">
+            
+            <input class="id" type="text" placeholder="Enter Id" id="abcd"> <button onclick="call()">Submit</button>
+        </div>
+    </div>
+    <div id="abc">
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+
+</html>
